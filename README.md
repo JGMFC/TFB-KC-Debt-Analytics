@@ -17,7 +17,7 @@ Con el fin de detallar todo el proceso de seguido en el proyecto, ver Memoria:
 - **Web**: [kcdebtanalytics](https://kcdebtanalytics.wordpress.com/)
 - **API**: [Streamlit app](https://app-imjnrygri297w4gpblrwpm.streamlit.app/)
 - **GitHub para D3**: [Repositorio](https://github.com/JGMFC/Burbujas)
-- **PowerBI**: [Reporte](https://app.powerbi.com/reportEmbed?reportId=51f9fcda-4e0f-4c3e-b432-5849fb9fd361&autoAuth=true&ctid=47556885-bfe6-4fef-bd77-2c9f940656ac)
+- **PowerBI**: [Reporte]([https://app.powerbi.com/reportEmbed?reportId=51f9fcda-4e0f-4c3e-b432-5849fb9fd361&autoAuth=true&ctid=47556885-bfe6-4fef-bd77-2c9f940656ac](https://app.fabric.microsoft.com/view?r=eyJrIjoiZjAwMTQ4ZTQtZTE0NS00NzZiLWE0YzgtMjA3ZGZhYWE2YmExIiwidCI6IjQ3NTU2ODg1LWJmZTYtNGZlZi1iZDc3LTJjOWY5NDA2NTZhYyIsImMiOjl9))
 
 ## Colabs Utilizados
 
