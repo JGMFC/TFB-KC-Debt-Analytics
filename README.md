@@ -10,7 +10,7 @@ Con el fin de detallar todo el proceso de seguido en el proyecto, ver Memoria:
 
 ## Recursos
 
-- **Drawio**: Esquemas Fuentes Drawio
+- **Drawio**: [ Esquemas Fuentes Drawio](https://drive.google.com/file/d/1LSmtbY_xIe9YjtdlHAXzYQLDMKecSxNb/view?usp=sharing)
 - **Trello**: [Cuadro de mando](https://trello.com/b/TOVHEMBd/cuadro-de-mando)
 - **Datos de renta por código postal**: [Estadística de los declarantes del IRPF de los mayores municipios por código postal: 2021: Composición Renta Bruta Tramos de Base Imponible: Total (agenciatributaria.gob.es)](https://agenciatributaria.gob.es/AEAT.sede/Inicio/_componentes_/_descarga_impuesto_/Renta_declarantes.zip)
 - **GitHub para Streamlit**: [Repositorio](https://github.com/JGMFC/Streamlit)
