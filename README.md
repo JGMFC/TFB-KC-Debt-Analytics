@@ -16,6 +16,7 @@ Con el fin de detallar todo el proceso de seguido en el proyecto, ver Memoria:
 - **GitHub para Streamlit**: [Repositorio](https://github.com/JGMFC/Streamlit)
 - **Web**: [kcdebtanalytics](https://kcdebtanalytics.wordpress.com/)
 - **API**: [Streamlit app](https://app-imjnrygri297w4gpblrwpm.streamlit.app/)
+- **Repositorio Streamlit**:  [Repositorio](https://github.com/JGMFC/Streamlit)
 - **GitHub para D3**: [Repositorio](https://github.com/JGMFC/Burbujas)
 - **PowerBI**: [Reporte](https://app.fabric.microsoft.com/view?r=eyJrIjoiZjAwMTQ4ZTQtZTE0NS00NzZiLWE0YzgtMjA3ZGZhYWE2YmExIiwidCI6IjQ3NTU2ODg1LWJmZTYtNGZlZi1iZDc3LTJjOWY5NDA2NTZhYyIsImMiOjl9)
 
