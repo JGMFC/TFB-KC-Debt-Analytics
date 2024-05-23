@@ -7,7 +7,7 @@ https://kcdebtanalytics.wordpress.com/
 
 Con el fin de detallar todo el proceso seguido en el proyecto, ver Memoria:
 
-[MEMORIA](https://github.com/JGMFC/TFB-KC-Debt-Analytics/raw/main/MEMORIA_TFB.pdf)
+[Memoria TFB](https://github.com/JGMFC/TFB-KC-Debt-Analytics/raw/main/MEMORIA_TFB.pdf)
 
 
 
