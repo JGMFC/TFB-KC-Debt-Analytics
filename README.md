@@ -5,8 +5,9 @@ Nuestra aplicación analiza el comportamiento financiero de los clientes, predic
 
 https://kcdebtanalytics.wordpress.com/
 
-Con el fin de detallar todo el proceso de seguido en el proyecto, ver Memoria:
-**[MEMORIA]**(https://github.com/JGMFC/TFB-KC-Debt-Analytics/edit/main/MEMORIA_TFB.pdf)
+Con el fin de detallar todo el proceso seguido en el proyecto, ver Memoria:
+
+[MEMORIA](https://github.com/JGMFC/TFB-KC-Debt-Analytics/raw/main/MEMORIA_TFB.pdf)
 
 
 
