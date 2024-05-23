@@ -24,6 +24,8 @@ Con el fin de detallar todo el proceso seguido en el proyecto, ver Memoria:
 
 ## Colabs Utilizados
 
+- **00 procesado e ingesta de datos públicos**: [Google Colab](https://colab.research.google.com/drive/1IZMjsnHz-2QHzVpsrrP1MIY6gMs1e1Ro?usp=sharing)
+- **01 Preparación data**: [Google Colab](https://colab.research.google.com/drive/1vFwXIEXwddp44ihWXR-PyfXzeNztQdRV?usp=sharing)
 - **01 Preparación data**: [Google Colab](https://colab.research.google.com/drive/1vFwXIEXwddp44ihWXR-PyfXzeNztQdRV?usp=sharing)
 - **02 Análisis prepocesado**: [Google Colab](https://colab.research.google.com/drive/1gfcdYGsWPS4Ka9JqIIjNPS6OEyzMeuVd?usp=sharing)
 - **03 Primer entrenamiento ML**: [Google Colab](https://colab.research.google.com/drive/1gfcdYGsWPS4Ka9JqIIjNPS6OEyzMeuVd?usp=sharing)
