@@ -12,13 +12,12 @@ Con el fin de detallar todo el proceso de seguido en el proyecto, ver Memoria:
 
 - **Drawio**: [ Esquemas Fuentes Drawio](https://drive.google.com/file/d/1LSmtbY_xIe9YjtdlHAXzYQLDMKecSxNb/view?usp=sharing)
 - **Trello**: [Cuadro de mando](https://trello.com/b/TOVHEMBd/cuadro-de-mando)
-- **Datos de renta por código postal**: [Estadística de los declarantes del IRPF de los mayores municipios por código postal: 2021: Composición Renta Bruta Tramos de Base Imponible: Total (agenciatributaria.gob.es)](https://agenciatributaria.gob.es/AEAT.sede/Inicio/_componentes_/_descarga_impuesto_/Renta_declarantes.zip)
-- **GitHub para Streamlit**: [Repositorio](https://github.com/JGMFC/Streamlit)
+- **Datos de renta por código postal**: [Estadística de los declarantes del IRPF](https://agenciatributaria.gob.es/AEAT.sede/Inicio/_componentes_/_descarga_impuesto_/Renta_declarantes.zip)
 - **Web**: [kcdebtanalytics](https://kcdebtanalytics.wordpress.com/)
 - **API**: [Streamlit app](https://app-imjnrygri297w4gpblrwpm.streamlit.app/)
-- **Repositorio Streamlit**:  [Repositorio](https://github.com/JGMFC/Streamlit)
-- **GitHub para D3**: [Repositorio](https://github.com/JGMFC/Burbujas)
-- **PowerBI**: [Reporte](https://app.fabric.microsoft.com/view?r=eyJrIjoiZjAwMTQ4ZTQtZTE0NS00NzZiLWE0YzgtMjA3ZGZhYWE2YmExIiwidCI6IjQ3NTU2ODg1LWJmZTYtNGZlZi1iZDc3LTJjOWY5NDA2NTZhYyIsImMiOjl9)
+- **Repositorio Streamlit**:  [Repositorio Streamlit](https://github.com/JGMFC/Streamlit)
+- **Repositorio para objetos D3**: [Repositorio D3](https://github.com/JGMFC/Burbujas)
+- **PowerBI**: [Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiZjAwMTQ4ZTQtZTE0NS00NzZiLWE0YzgtMjA3ZGZhYWE2YmExIiwidCI6IjQ3NTU2ODg1LWJmZTYtNGZlZi1iZDc3LTJjOWY5NDA2NTZhYyIsImMiOjl9)
 
 ## Colabs Utilizados
 
